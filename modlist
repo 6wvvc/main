@@ -1,6 +1,6 @@
 ModIDS = {
     [1812542652] = true, -- ME 
-    [287596219] = true, -- My Alt
+    [287596219] = false, -- My Alt
     [555710383] = true, -- SympingForArii
     [1708886407] = true, -- losercouncil
     [2049346249] = true, -- losersalt
